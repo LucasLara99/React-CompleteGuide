@@ -35,4 +35,22 @@ Este proyecto de inicio está diseñado para proporcionar una base sólida para 
 - **@vitejs/plugin-react**: Plugin de Vite para React.
 - **vite**: Herramienta de construcción rápida para proyectos web.
 
-Este proyecto proporciona una base sólida para aprender y desarrollar aplicaciones React, con una estructura clara y configuraciones esenciales.
+## Contenido Aprendido
+
+### 1. Estructura de un Proyecto React
+Aprendí cómo estructurar un proyecto React de manera organizada, incluyendo la separación de componentes, estilos y recursos estáticos.
+
+### 2. Componentes React
+Entendí cómo crear y utilizar componentes en React, incluyendo componentes funcionales y el uso de props para pasar datos entre componentes.
+
+### 3. Estado y Ciclo de Vida
+Aprendí a manejar el estado en componentes funcionales usando hooks como `useState` y a entender el ciclo de vida de los componentes.
+
+### 4. Estilos en React
+Exploré diferentes maneras de aplicar estilos en React, incluyendo el uso de archivos CSS y la importación de estilos en componentes.
+
+### 5. Herramientas de Construcción
+Utilicé Vite como herramienta de construcción para configurar y optimizar el proyecto, aprendiendo a manejar scripts de desarrollo y producción.
+
+### 6. Gestión de Datos
+Aprendí a gestionar datos estáticos y dinámicos en la aplicación, incluyendo la importación y uso de datos desde archivos externos.
